@@ -2,7 +2,8 @@
   {
     "name": "Mi App",
     "version": "0.1.0",
-    "description": "Descripción corta: qué hace y qué probar en esta beta.",
-    "downloadUrl": "https://github.com/tu-org/lproyects/releases/download/v0.1/miapp-v0.1.apk"
+    "description": "Aquí está Arset, mi navegador,
+Al abrirlo, Windows puede decir "Windows protegió su PC". Pulsa Más información y luego Ejecutar de todas formas. Es normal porque el programa es nuevo y todavía no tiene firma digital.",
+    "downloadUrl": "https://www.mediafire.com/file/4rr5tntei76kxlz/Arset-Instalador.exe/file"
   }
 ]
